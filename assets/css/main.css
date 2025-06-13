@@ -94,6 +94,7 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  
 }
 
 article,
@@ -113,6 +114,8 @@ section {
 body {
   line-height: 1;
 }
+
+
 
 ol,
 ul {
@@ -646,6 +649,7 @@ a:hover {
   top: -1em;
   vertical-align: middle;
   width: 90%;
+  overflow-y: auto;
 }
 
 #header h1 {
